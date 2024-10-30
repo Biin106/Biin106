@@ -8,7 +8,7 @@
 
 <h2 align="center">🖥️Frontend</h2>
 <p align="center">
-  <a href="https://ko.wikipedia.org/wiki/HTML5" rel="noopener noreferrer">
+  <a href="https://ko.wikipedia.org/wiki/HTML5" target="blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp
