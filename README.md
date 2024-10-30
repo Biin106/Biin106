@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juwon's%20GitHub&fontSize=50&animation=twinkling&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Biin's%20GitHub&fontSize=50&animation=twinkling&fontAlign=50)
 
 
 [![Git Blog](https://img.shields.io/badge/Git_Blog-green)](https://jwndnjs1104.github.io)
