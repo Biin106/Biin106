@@ -3,7 +3,7 @@
 
 
 <a href="https://Biin106.github.io">
-    <img src="https://img.shields.io/badge/Git_Blog-green" alt="Git Blog" style="width: 150px; height: auto;">
+    <img src="https://img.shields.io/badge/Git_Blog-green" alt="Git Blog" style="width: 80px; height: auto;">
 </a>
 
 
