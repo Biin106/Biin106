@@ -2,7 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Biin106's%20GitHub&fontSize=50&animation=twinkling&fontAlign=50)
 
 
-[![Git Blog](https://img.shields.io/badge/Git_Blog-green?logo=github&labelSize=50px)](https://Biin106.github.io)
+<a href="https://Biin106.github.io">
+    <img src="https://img.shields.io/badge/Git_Blog-green" alt="Git Blog" style="width: 150px; height: auto;">
+</a>
 
 
 <h1 align="center">📚Stacks</h1>
